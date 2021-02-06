@@ -6,10 +6,10 @@
 * License
 
 ## Updates
---Fixed broken link in heading 'Search Engine Optimization'
---Added Alt text to images and links
---Removed dev elements to improve accessibility
---Consolidated many CSS elements
+* Fixed broken link in heading 'Search Engine Optimization'
+* Added Alt text to images and links
+* Removed dev elements to improve accessibility
+* Consolidated many CSS elements
 
 ## Usage
 Link to website:
