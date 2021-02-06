@@ -5,15 +5,12 @@
 * Credits
 * License
 
-## Updates
-* Fixed broken link in heading 'Search Engine Optimization'
-* Added Alt text to images and links
-* Removed dev elements to improve accessibility
-* Consolidated many CSS elements
-
-## Usage
+## Installation
 Link to website:
 https://krather7.github.io/Homework01/
+
+## Usage
+This is a sample project to show basic understanding of CSS. In thie file, I fixed broken links, improved accessibility, and condensed CSS code.
 
 ## Credits
 	Horiseon Social Services
